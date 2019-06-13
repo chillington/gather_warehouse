@@ -1,2 +1,2 @@
 # gather_warehouse
-Projects from a Data Gathering &amp; Warehousing Course
+Projects from a Data Gathering &amp; Warehousing course
